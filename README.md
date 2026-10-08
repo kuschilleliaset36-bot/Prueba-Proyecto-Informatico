@@ -1,3 +1,10 @@
+
+# Comandos Básicos de GIT
+
+## Acá meti todos los codigos que aprendí
+
+
+```Bash
 git init: Crea un repositorio de Git nuevo y vacio en la carpeta actual
 
 git status: Muestra el estado actual del repositorio archivos modificados, sin seguimiento o listos para confirmar
@@ -13,3 +20,4 @@ git branch: Lista, crea o elimina ramas de trabajo
 git checkout: Cambia de una rama a otra
 
 git log: Muestra el historial completo de los commits realizados en el proyecto
+```
