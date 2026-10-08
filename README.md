@@ -20,4 +20,6 @@ git branch #: Lista, crea o elimina ramas de trabajo
 git checkout #: Cambia de una rama a otra
 
 git log #: Muestra el historial completo de los commits realizados en el proyecto
+
+git clone #: Es para clonar el repositorio dentro de tu computadora con el respectivo link
 ```
