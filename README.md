@@ -5,19 +5,19 @@
 
 
 ```Bash
-- git init: Crea un repositorio de Git nuevo y vacio en la carpeta actual
+git init#: Crea un repositorio de Git nuevo y vacio en la carpeta actual
 
-- git status: Muestra el estado actual del repositorio archivos modificados, sin seguimiento o listos para confirmar
+git status#: Muestra el estado actual del repositorio archivos modificados, sin seguimiento o listos para confirmar
 
-- git add: Mueve los cambios de los archivos del directorio de trabajo al área de preparacion
+git add#: Mueve los cambios de los archivos del directorio de trabajo al área de preparacion
 
-- git commit -m "mensaje": Guarda de forma oficial los cambios preparados en el historial local con una descripcion
+git commit -m "mensaje"#: Guarda de forma oficial los cambios preparados en el historial local con una descripcion
 
-- git push: Sube los commits de tu repositorio local hacia el repositorio de la nube
+git push#: Sube los commits de tu repositorio local hacia el repositorio de la nube
 
-- git branch: Lista, crea o elimina ramas de trabajo
+git branch#: Lista, crea o elimina ramas de trabajo
 
-- git checkout: Cambia de una rama a otra
+git checkout#: Cambia de una rama a otra
 
-- git log: Muestra el historial completo de los commits realizados en el proyecto
+git log#: Muestra el historial completo de los commits realizados en el proyecto
 ```
